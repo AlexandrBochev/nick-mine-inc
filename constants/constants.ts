@@ -1,8 +1,8 @@
-import { IcEmail } from "./../Components/ui/icons/IcEmail";
-import { IcHearset } from "./../Components/ui/icons/IcHearset";
-import { IcPassword } from "./../Components/ui/icons/IcPassword";
-import { IcUser } from "./../Components/ui/icons/IcUser";
-import { IcUserId } from "./../Components/ui/icons/IcUserId";
+import { IcEmail } from "../components/ui/icons/IcEmail";
+import { IcHearset } from "../components/ui/icons/IcHearset";
+import { IcPassword } from "../components/ui/icons/IcPassword";
+import { IcUser } from "../components/ui/icons/IcUser";
+import { IcUserId } from "../components/ui/icons/IcUserId";
 
 export const MAIN_LAYOUT = {
   METADATA: {
