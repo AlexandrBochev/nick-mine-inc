@@ -1,5 +1,5 @@
-import { CreateAccount } from "@/Components/CreateAccount/CreateAccount";
-import { Hero } from "@/Components/Hero/Hero";
+import { CreateAccount } from "./../Components/CreateAccount/CreateAccount";
+import { Hero } from "./../Components/Hero/Hero";
 import { Suspense } from "react";
 
 export default function Home() {
