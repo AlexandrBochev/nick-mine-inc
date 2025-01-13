@@ -94,7 +94,7 @@ const CreateAccount = () => {
         ))}
       </footer>
 
-      <section className="flex absolute gap-4 right-0 md:top-6.5 md:-right-10 lg:top-7 lg:right-0">
+      <section className="flex absolute gap-4 right-0 md:top-6.5 md:right-10 lg:top-7 lg:-right-24">
         <Button
           Icon={IcUK} onClick={() => router.push("?lang=uk")}
           className={`${language === "uk" || !language ? "opacity-100" : "opacity-30"}`}

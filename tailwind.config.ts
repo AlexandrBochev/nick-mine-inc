@@ -7,18 +7,11 @@ export default {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    screens: {
-      sm: "768px",
-      md: "1200",
-      lg: "1800",
-    },
     extend: {
       screens: {
         sm: "768px",
-        // md: "1024px",
-        // lg: "1536px",
-        md: "1200",
-        lg: "1800",
+        md: "1280px",
+        lg: "1536px",
       },
       colors: {
         background: "#201818",
