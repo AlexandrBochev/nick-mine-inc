@@ -9,12 +9,17 @@ export default {
   theme: {
     screens: {
       sm: "768px",
-      md: "1024px",
-      lg: "1536px",
-      // md: "1200",
-      // lg: "1800",
+      md: "1200",
+      lg: "1800",
     },
     extend: {
+      screens: {
+        sm: "768px",
+        // md: "1024px",
+        // lg: "1536px",
+        md: "1200",
+        lg: "1800",
+      },
       colors: {
         background: "#201818",
         accent: "#E80004",
